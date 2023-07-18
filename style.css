@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.w3-limey {
+  color: #444444;
+  background-color: #b8dac7;
+}
+
+.sz {
+  width: 100vw;
+}
+
+.pad {
+  padding: 20px;
+}
+
+.heading {
+  font-size: 10vh;
+  color: #000000;
+  text-decoration: none;
+}
+
+.span {
+  color: #000000;
+}
+
+* {
+  font-style: "Victor", monoscape
+}
+
+.typewrite>.wrap {
+  border-right: 0.08em solid #000000;
+}
+
+
+.txtpt {
+  max-width: 70vw;
+}
+
+.imgpt {
+  max-width: 30vw;
+  max-height: 30vh;
+}
